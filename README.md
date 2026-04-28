@@ -5,4 +5,4 @@ Searcher.java implements binary search for fast lookups on sorted arrays. Experi
 .gitignore keeps build outputs out of the repo, and the docs folders are for screenshots and results.
 <img width="1312" height="914" alt="Screenshot 2026-04-28 184610" src="https://github.com/user-attachments/assets/3728a307-d511-459e-a47b-83894185eed4" />
 <img width="1400" height="932" alt="Screenshot 2026-04-28 184616" src="https://github.com/user-attachments/assets/c24c2d82-57ab-4067-a03a-136ad9b260f6" />
-Screenshots show two test runs I did
+Screenshots show two test runs I did with different input sizes, I have learned that there is a chance of finding an item in an unsorted array faster than from a sorted one. I do not think I have faced any difficulties whilst doing the assignment. 
